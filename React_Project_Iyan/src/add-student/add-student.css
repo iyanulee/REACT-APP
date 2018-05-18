@@ -1,0 +1,16 @@
+.excite form {
+    margin-left:20%;
+    border: 2px solid black;
+    width: 440px;
+    height: 380px;
+    padding: 20px;    
+    margin-top: 30px;
+    margin-right: 25px;
+    text-decoration: none;
+    text-align: justify;
+    background-color: aquamarine;
+}
+
+.excite input{
+    margin: 5px 3px;
+}
